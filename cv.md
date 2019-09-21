@@ -7,3 +7,15 @@
 > to achieve them. I am a team player with developed organizational  abilities, 
 > have experience of working in the chemical laboratory of the National Academy 
 > of Sciences and experience of working with the laboratory software.
+## Programming Languages
+* JavaScript
+* Pipeline Pilot
+* SQL
+## Programming Technologies
+* HTML
+* Macromedia FLASH animation
+* Bootstrap
+## JavaScript Frameworks/Libraries
+* Angular 5
+* PrimeNG
+* Firebase
