@@ -21,3 +21,74 @@ body {
 .header p {
     padding-top: 1rem;
 }
+.summary {
+    margin-bottom: 3rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #fe3e00;
+}
+.summary {
+	font-size: 1.2rem;
+	font-style: italic;
+}
+.summaryImgWrapper {
+	position: relative;
+}
+.summaryImg {
+	border: 2px solid #fe3e00;
+	border-radius: 4px;
+    width: 20%;
+    display: block;
+    margin: 0 auto;
+    
+}
+.summaryText {
+    text-align: justify;
+}
+
+article {
+    margin-bottom: 3rem;
+}
+.skills .subHeader {
+	margin-top: 10px;
+}
+.skillsHeader,
+.experienceHeader,
+.educationHeader,
+.englishHeader {
+    display: block;
+    font-size: 1.5rem;
+    font-weight: bold;
+    border-bottom: 2px solid lightgrey;
+    color: #fe3e00;
+    margin-bottom: 1rem;
+}
+.subHeader {
+    display: block;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.list {
+    border-bottom: 2px dashed lightgrey;
+}
+ .list li {
+	padding: .4rem 0;
+}
+.list li:last-child:after {
+	color: #eee;
+}
+.list:last-child{
+    border-bottom: 2px none lightgrey;
+}
+
+
+.textStrong {
+    font-weight: bold;
+}
+.project {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.project p {
+    text-align: justify;
+    padding: 0.3rem;
+}
