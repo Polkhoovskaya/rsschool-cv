@@ -82,8 +82,8 @@
  * Developing an application about the stages of making coffee.
  >Technologies and Tools: Pipeline Pilot, JavaScript, HTML/CSS.
 
- ## Education
- 
+## Education
+
 General Business Course ( English, link: [http://enru.by/](http://enru.by/) )
 
 Pipeline Pilot ( ScienceSoft, link: [https://www.scnsoft.com/ru](https://www.scnsoft.com/ru) )
