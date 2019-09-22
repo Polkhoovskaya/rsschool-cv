@@ -22,11 +22,10 @@
 
 ### Code examples
 ```html
-<body>
-	<header>
-		<a href="/"><img src="./img/logo.png"  class="logoWrapper" alt="Logo"></a>
-		<p>For more than 1500 years İstanbul was the capital of Roman, Byzantine and Ottoman Empires.</p>
-	</header>
+    <header>
+	<a href="/"><img src="./img/logo.png"  class="logoWrapper" alt="Logo"></a>
+	<p>For more than 1500 years İstanbul was the capital of Roman, Byzantine and Ottoman Empires.</p>
+    </header>
     <main>
         <div class="introWrapper">
             <p class="introText">“Life is not such a bad thing,” - I think sometimes. - “In the end, you can always walk along the Bosphorus.”</p>
@@ -70,7 +69,6 @@
             </ol>	
         </div>	
     </main>
-</body>
 ```
 ## Experience
  * Development of an application for studying the adsorption properties of magnesium oxide.
