@@ -100,3 +100,40 @@ footer {
     text-align: center;
     background: linear-gradient(45deg, #EECFBA, #fe3e00);
 }
+
+
+
+@media screen and (min-width: 50rem) {
+	body {
+		border-left: 4px solid #f9f9f9;
+		border-right: 4px solid #f9f9f9;
+		padding: 1rem 2rem;
+	}
+
+	.summary {
+		display: table;
+		table-layout: fixed;
+		width: 100%;
+	}
+
+	.summaryImgWrapper,
+	.summaryText {
+		display: table-cell;
+		width: 50%;
+		vertical-align: middle;
+		text-align: center;
+	}
+
+	.summaryText {
+		font-size: 1.3rem;
+		text-align: justify;
+        position: relative;
+        padding-right: 1rem;
+    }
+    .summaryImg {
+        width: 30%;
+    }
+	.subHeader {
+		margin: 0;
+	}
+}
