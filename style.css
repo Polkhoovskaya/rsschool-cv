@@ -1,0 +1,139 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    width: 100vw;
+    height: 100vh;
+    max-width: 1024px;
+    font-size: 1rem;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+}
+.logoWrapper {
+    max-width: 10%;
+}
+.header {
+	text-align: center;
+	border-bottom: 8px double #fe3e00;
+	margin-bottom: 2rem;
+	padding-bottom: 1rem;
+}
+.header p {
+    padding-top: 1rem;
+}
+.summary {
+    margin-bottom: 3rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #fe3e00;
+}
+.summary {
+	font-size: 1.2rem;
+	font-style: italic;
+}
+.summaryImgWrapper {
+	position: relative;
+}
+.summaryImg {
+	border: 2px solid #fe3e00;
+	border-radius: 4px;
+    width: 20%;
+    display: block;
+    margin: 0 auto;
+    
+}
+.summaryText {
+    text-align: justify;
+}
+
+article {
+    margin-bottom: 3rem;
+}
+.skills .subHeader {
+	margin-top: 10px;
+}
+.skillsHeader,
+.experienceHeader,
+.educationHeader,
+.englishHeader {
+    display: block;
+    font-size: 1.5rem;
+    font-weight: bold;
+    border-bottom: 2px solid lightgrey;
+    color: #fe3e00;
+    margin-bottom: 1rem;
+}
+.subHeader {
+    display: block;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.list {
+    border-bottom: 2px dashed lightgrey;
+}
+ .list li {
+	padding: .4rem 0;
+}
+.list li:last-child:after {
+	color: #eee;
+}
+.list:last-child{
+    border-bottom: 2px none lightgrey;
+}
+
+
+.textStrong {
+    font-weight: bold;
+}
+.project {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.project p {
+    text-align: justify;
+    padding: 0.3rem;
+}
+
+
+footer {
+    padding: 1rem 2rem;
+    color: white;
+    text-align: center;
+    background: linear-gradient(45deg, #EECFBA, #fe3e00);
+}
+
+
+
+@media screen and (min-width: 50rem) {
+	body {
+		border-left: 4px solid #f9f9f9;
+		border-right: 4px solid #f9f9f9;
+		padding: 1rem 2rem;
+	}
+
+	.summary {
+		display: table;
+		table-layout: fixed;
+		width: 100%;
+	}
+
+	.summaryImgWrapper,
+	.summaryText {
+		display: table-cell;
+		width: 50%;
+		vertical-align: middle;
+		text-align: center;
+	}
+
+	.summaryText {
+		font-size: 1.3rem;
+		text-align: justify;
+        position: relative;
+        padding-right: 1rem;
+    }
+    .summaryImg {
+        width: 30%;
+    }
+	.subHeader {
+		margin: 0;
+	}
+}
