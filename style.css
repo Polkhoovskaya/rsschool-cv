@@ -92,3 +92,11 @@ article {
     text-align: justify;
     padding: 0.3rem;
 }
+
+
+footer {
+    padding: 1rem 2rem;
+    color: white;
+    text-align: center;
+    background: linear-gradient(45deg, #EECFBA, #fe3e00);
+}
