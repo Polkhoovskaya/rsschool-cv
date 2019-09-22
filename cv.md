@@ -98,4 +98,7 @@ JS ( Link: [https://learn.javascript.ru/](https://learn.javascript.ru/) )
 
 Angular5 - The Complete Guide (Link: [https://www.udemy.com/](https://www.udemy.com/) )
 
+## English 
 
+English: intermediate
+> Сurrently I am teaching foreigners the Russian language, practice is constant.
