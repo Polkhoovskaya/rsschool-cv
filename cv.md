@@ -72,3 +72,14 @@
     </main>
 </body>
 ```
+## Experience
+ * Development of an application for studying the adsorption properties of magnesium oxide.
+ > Technologies and Tools: Angular 5, PrimeNG, Pipeline Pilot, Firebase, Bootstrap, Adobe Photoshop, JavaScript, HTML/CSS, Origin.
+
+ * Development of an for data recognition from five different laboratory devices.
+ > Technologies and Tools: Pipeline Pilot.
+
+ * Developing an application about the stages of making coffee.
+ >Technologies and Tools: Pipeline Pilot, JavaScript, HTML/CSS.
+ 
+
