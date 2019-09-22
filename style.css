@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    width: 100vw;
+    height: 100vh;
+    max-width: 1024px;
+    font-size: 1rem;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+}
+.logoWrapper {
+    max-width: 10%;
+}
+.header {
+	text-align: center;
+	border-bottom: 8px double #fe3e00;
+	margin-bottom: 2rem;
+	padding-bottom: 1rem;
+}
+.header p {
+    padding-top: 1rem;
+}
